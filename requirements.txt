@@ -3,4 +3,3 @@ numpy
 requests
 pytest
 flake8
-bedtools
